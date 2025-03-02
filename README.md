@@ -38,3 +38,8 @@
 
 ## Contact
 <p style="font-size:18px;">Désolé, je ne peux pas vous répondre pour le moment, j'ai explosé</p>
+
+
+<p align="center">
+    <img src="https://i.pinimg.com/originals/a6/b5/99/a6b5995249f84d6fe15b0056e009fae8.gif" alt="Description de l'image" width="100%" />
+</p>
