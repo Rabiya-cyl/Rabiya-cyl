@@ -45,3 +45,11 @@
   <img src="https://i.pinimg.com/736x/9a/7b/e4/9a7be4eb269f91f5f41d7fa9bdccc9f9.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabiya-cyll&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabiya-cyl&theme=neon-red&hide_border=true&ring=FF0000&fire=FF0000" alt="Streak GitHub" width="48%"/>
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiya-cyl&langs_count=10&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Top Langues avec Pourcentages" width="50%"/>
+</p>
