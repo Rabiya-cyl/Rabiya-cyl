@@ -6,6 +6,8 @@
   <img src="https://i.pinimg.com/originals/3a/64/12/3a6412d4715f0b954e68695524aae8df.gif" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
 </p>
 
+<h3 align="center" style="color:#FF0000;">garce a allah je suis etudiante a 42</h3>
+
 <div align="center">
   <table>
     <tr>
