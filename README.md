@@ -59,3 +59,16 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiya-cyl&langs_count=10&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Top Langues avec Pourcentages" width="50%"/>
 </p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h2>tuto ceinture explosive</h2>
+      </td>
+      <td>
+        <img src="https://i.pinimg.com/736x/bc/05/95/bc0595b8e30ee20a2e9871f93e01016f.jpg" width="200" />
+      </td>
+    </tr>
+  </table>
+</div>
