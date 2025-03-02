@@ -36,7 +36,7 @@
   </table>
 </div>
 
-## Contact
+## Contact 💥🧨
 <p align="left" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
     Désolé, je ne peux pas vous répondre pour le moment, j'ai explosé
 </p>
