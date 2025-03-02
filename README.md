@@ -40,6 +40,6 @@
 <p style="font-size:18px;">Désolé, je ne peux pas vous répondre pour le moment, j'ai explosé</p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c1/40/1f/c1401ff41e1b0f16e8c0e19808f87c4a.gif" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/9a/7b/e4/9a7be4eb269f91f5f41d7fa9bdccc9f9.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
 </p>
 
