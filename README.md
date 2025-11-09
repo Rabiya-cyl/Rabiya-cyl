@@ -11,10 +11,10 @@
 Je m’intéresse particulièrement aux **systèmes UNIX**, à la **programmation bas-niveau (C)** et à la **cybersécurité**.  
 Je développe mes compétences à travers des projets concrets.
 
-- 🎓 Étudiante à **École 42 Luxembourg**  
-- 🌱 En apprentissage continu : algorithmique, Linux, multithreading  
-- 💬 Langages favoris : **C**, **Python**, **Bash**  
-- 📫 Me contacter : **rabiya.cyl@gmail.com**  
+-  Étudiante à **École 42 Luxembourg**  
+-  En apprentissage continu : algorithmique, Linux, multithreading  
+-  Langages favoris : **C**, **LUA**
+-  Me contacter : **rabiya.cyl@gmail.com**  
 -  Actuellement élève à [École 42 Luxembourg](https://42luxembourg.lu/).  
 
 ---
