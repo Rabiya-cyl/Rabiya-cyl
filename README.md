@@ -1,16 +1,25 @@
-<h1 align="center">👋 Salut, je suis Rabiya Caylan</h1>
+<h1 align="center"> Salut, je suis Caylan Rabiya </h1>
 <h3 align="center">Étudiante en informatique à l'École 42 Luxembourg</h3>
 
 ---
 
+###  À propos de moi
+
 ### 👩‍💻 À propos de moi
-- 🎓 Étudiante passionnée par la programmation, les systèmes UNIX et la cybersécurité.  
-- 💡 J’aime résoudre des problèmes techniques et apprendre de nouvelles technologies.  
-- 🚀 Actuellement en formation à [École 42 Luxembourg](https://42luxembourg.lu/).  
+
+Étudiante passionnée par l’informatique, la logique et le développement logiciel.  
+Je m’intéresse particulièrement aux **systèmes UNIX**, à la **programmation bas-niveau (C)** et à la **cybersécurité**.  
+Je développe mes compétences à travers des projets concrets.
+
+- 🎓 Étudiante à **École 42 Luxembourg**  
+- 🌱 En apprentissage continu : algorithmique, Linux, multithreading  
+- 💬 Langages favoris : **C**, **Python**, **Bash**  
+- 📫 Me contacter : **rabiya.cyl@gmail.com**  
+-  Actuellement élève à [École 42 Luxembourg](https://42luxembourg.lu/).  
 
 ---
 
-### 🧠 Compétences
+###  Compétences
 
 **Langages :**
 - C, C++, Lua, HTML, CSS, Bash, Python (bases)
@@ -20,16 +29,18 @@
 
 ---
 
-### 📚 Projets
-- **Libft** : Création d’une bibliothèque C personnalisée.  
-- **Born2beroot** : Installation d’un serveur Linux sécurisé.  
-- **Get_next_line** : Lecture de fichiers ligne par ligne en C.  
-- **MiniTalk** : Communication entre processus via signaux UNIX.  
-- **FdF / so_long** : Mini-jeux 2D avec affichage graphique.  
+###  Projets
+- **Libft** : Création d’une bibliothèque C personnalisée. | Gestion mémoire, C |
+- **Born2beroot** : Installation d’un serveur Linux sécurisé. | Sécurité, administration système |
+- **Get_next_line** : Lecture de fichiers ligne par ligne en C. | Gestion de fichiers, pointeurs |
+- **MiniTalk** : Communication entre processus via signaux UNIX. | Processus, signaux |
+- **so_long** : Mini-jeux 2D avec affichage graphique.| Graphisme, algorithmique |
+- **Push_swap** : Tri d'une pile en un minimum de coups avec des opérations limitées. | Algorithmique, optimisation |
+- **Philosophers** : Simulation du problème des philosophes avec threads et mutex. | Multithreading, synchronisation |
 
 ---
 
-### 📊 Statistiques GitHub
+###  Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rabiya-cyl&show_icons=true&theme=tokyonight" width="48%"/>
@@ -41,5 +52,6 @@
 ### 📫 Me contacter
 📍 Bourgoin, France  
 📧 rabiya.cyl@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/rabiya-caylan-286a9435b/) | 🌐 [Portfolio](https://realgreatsite.com)
+💼 [LinkedIn](https://www.linkedin.com/in/rabiya-caylan-286a9435b/)
+🌐 [Portfolio](https://realgreatsite.com)
 
