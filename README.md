@@ -49,7 +49,7 @@ Je développe mes compétences à travers des projets concrets.
 ---
 
 ### 📫 Me contacter
-📍 Bourgoin, France  
+📍 France  
 📧 rabiya.cyl@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/rabiya-caylan-286a9435b/)
 🌐 [Portfolio](https://realgreatsite.com)
