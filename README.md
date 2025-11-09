@@ -41,5 +41,5 @@
 ### 📫 Me contacter
 📍 Bourgoin, France  
 📧 rabiya.cyl@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com) | 🌐 [Portfolio](https://realgreatsite.com)
+💼 [LinkedIn](https://www.linkedin.com/in/rabiya-caylan-286a9435b/) | 🌐 [Portfolio](https://realgreatsite.com)
 
