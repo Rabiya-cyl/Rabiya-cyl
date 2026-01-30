@@ -3,7 +3,7 @@
 
 ---
 
-## 👩‍💻 À propos de moi
+## À propos de moi
 
 Étudiante passionnée par l’informatique, la logique et le développement logiciel.  
 Je m’intéresse particulièrement aux **systèmes UNIX**, à la **programmation bas-niveau (C)** et à la **cybersécurité**.  
