@@ -1,4 +1,4 @@
-<h1 align="center"> Salut, je suis Caylan Rabiya  </h1>
+<h1 align="center"> Salut, je suis Rabiya  </h1>
 <h3 align="center">Étudiante en informatique à l'École 42 Luxembourg</h3>
 
 ---
