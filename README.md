@@ -70,11 +70,7 @@ Je développe mes compétences à travers des projets concrets et exigeants.
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiya-cyl&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
 
----
 
 ## 📬 Me contacter
 
