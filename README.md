@@ -71,11 +71,6 @@ Je développe mes compétences à travers des projets concrets et exigeants.
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabiya-cyl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabiya-cyl&theme=tokyonight&cache_seconds=1800" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiya-cyl&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
