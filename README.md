@@ -65,11 +65,8 @@ Building real skills through demanding peer-to-peer projects at **42 Luxembourg*
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabiya-cyl&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa)
-
 ![Streak](https://streak-stats.demolab.com?user=Rabiya-cyl&theme=transparent&hide_border=true&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=e2e8f0&currStreakNum=a78bfa&sideNums=e2e8f0)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiya-cyl&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0)
-
 </div>
 
 -----
