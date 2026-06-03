@@ -18,7 +18,7 @@ Building real skills through demanding peer-to-peer projects at **42 Luxembourg*
 - 🎓 Student @ [École 42 Luxembourg](https://42luxembourg.lu)
 - 🔐 Interests: UNIX systems, security, systems programming
 - 📖 Currently: advanced algorithms · threads · C++
-- 💻 Favourite languages: **C**, **C++**
+- 💻 Favourite languages: **C**, **C++**, "Python"
 - 📮 [rabiya.cyl@gmail.com](mailto:rabiya.cyl@gmail.com)
 
 -----
