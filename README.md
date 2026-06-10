@@ -10,7 +10,7 @@
 
 -----
 
-### `$ whoami`
+### `$ who am i`
 
 Passionate about **low-level programming**, UNIX systems and cybersecurity.  
 Building real skills through demanding peer-to-peer projects at **42 Luxembourg**.
